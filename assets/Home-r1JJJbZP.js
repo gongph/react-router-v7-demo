@@ -1,0 +1,1 @@
+import{w as i}from"./with-props-Bm0Wbhnb.js";import{o}from"./chunk-D52XG6IA-B6pq6YXI.js";const r=i(function(){return o.jsxs("div",{children:[o.jsx("h1",{children:"Home"}),o.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam"})]})});export{r as default};

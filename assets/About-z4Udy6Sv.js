@@ -1,0 +1,1 @@
+import{w as t}from"./with-props-Bm0Wbhnb.js";import{o}from"./chunk-D52XG6IA-B6pq6YXI.js";const e=t(function(){return o.jsxs("div",{children:[o.jsx("h1",{children:"About"}),o.jsx("p",{children:"This is the about page"})]})});export{e as default};
