@@ -1,20 +1,15 @@
 export default [
   {
-    path: "/",
-    file: "./views/Home.jsx",
+    file: "./views/App.jsx",
     children: [
       {
         index: true,
-        file: "./components/Banner.jsx",
+        file: "./views/Home.jsx",
       },
       {
-        path: "/hero",
-        file: "./components/Hero.jsx",
+        path: "/about",
+        file: "./views/About.jsx",
       },
     ],
-  },
-  {
-    path: "/about",
-    file: "./views/About.jsx",
   },
 ];

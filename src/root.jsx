@@ -8,6 +8,7 @@ import {
   useRouteError,
   Link,
 } from "react-router";
+import "./index.css";
 
 // eslint-disable-next-line react/prop-types
 export function Layout({ children }) {
