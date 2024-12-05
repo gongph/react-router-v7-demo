@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-C83v07l6.js";import{x as r,o as s}from"./chunk-D52XG6IA-BCrTDy2V.js";async function i(){return{message:"Hello World"}}const m=e(function(){const o=r();return s.jsxs("h2",{children:["This a hero, ",o.message]})});export{i as clientLoader,m as default};
