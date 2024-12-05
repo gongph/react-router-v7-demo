@@ -1,0 +1,1 @@
+import{w as i}from"./with-props-BmV0n-aj.js";import{o,w as t}from"./chunk-D52XG6IA-tVtN_PEN.js";const n=i(function(){return o.jsxs("div",{children:[o.jsx("h1",{children:"Home"}),o.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam"}),o.jsx(t,{to:"/about",children:"About"})]})});export{n as default};
