@@ -4,13 +4,3 @@ build/
 coverage/
 pnpm-lock.yaml
 *.log
-*.swp
-*.swo
-*.swn
-*.swnb
-*.swp
-*.swpo
-*.swpx
-*.swpu
-*.swpxu
-*.swp~
