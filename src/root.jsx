@@ -17,7 +17,6 @@ export function Layout({ children }) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>react-router-v7-demo</title>
         <Meta />
         <Links />
       </head>
@@ -48,7 +47,7 @@ export function ErrorBoundary() {
           {error.status} {error.statusText}
         </h1>
         <p>{error.data}</p>
-        <Link to="/">Back Home</Link>
+        <Link to={"/"}>Back Home</Link>
       </div>
     );
   } else if (error instanceof Error) {
